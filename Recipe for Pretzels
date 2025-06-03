@@ -12,6 +12,7 @@
                 <ul>
                     <li><a href="#ingredients">Ingredients</a></li>
                     <li><a href="#steps">Steps</a></li>
+                    <li><a href="#newsletters">Newsletters</a></li>
                 </ul>
             </header>
         <main>
@@ -44,10 +45,10 @@
                     <li>Bake at 425° F for 15 min.</li>
                 </ol>
             </section>
-            <section>
+            <section id="newsletters">
                 <form>
-                    <label for="email">Email for Newsleters</label>
-                    <input required type="email" name="email" id="email" />
+                    <label for="email">Email for Newsletters</label>
+                    <input type="email" required name="email" id="email" />
                     <button type="submit">Submit</button>
                 </form>
             </section>
