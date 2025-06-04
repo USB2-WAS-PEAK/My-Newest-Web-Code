@@ -1,57 +1,57 @@
 <!DOCTYPE html>
-    <html lang="en">
-        <head>
-            <title>Pretzels</title>
-            <meta charset="UTF-8">
-            <meta name="description" content="Easy simple and fun way to make pretzels at home.">
-        </head>
-        <body>
-            <header>
-                <h1>Pretzels</h1>
-                <img src="https://cdn12.picryl.com/photo/2016/12/31/breze-pretzels-salt-food-drink-bbe01e-1024.jpg" alt="Pretzels">
-                <ul>
-                    <li><a href="#ingredients">Ingredients</a></li>
-                    <li><a href="#steps">Steps</a></li>
-                    <li><a href="#newsletters">Newsletters</a></li>
-                </ul>
-            </header>
-        <main>
-            <section id="ingredients">
-                <h2>Ingredients</h2>
-                <dl>
-                    <dt>Yeast</dt>
-                    <dd>1 tbs</dd>
-                    <dt>Flour</dt>
-                    <dd>4 Cups</dd>
-                    <dt>Warm Water</dt>
-                    <dd>1 1/2 Cups</dd>
-                    <dt>Egg</dt>
-                    <dd>1</dd>
-                    <dt>Sugar</dt>
-                    <dd>1 tbs</dd>
-                    <dt>Salt</dt>
-                    <dd>1 tbs</dd>
-                </dl>
-            </section>
-            <section id="steps">
-                <h2>Steps</h2>
-                <ol>
-                    <li>Mix yeast, water, sugar, and salt.</li>
-                    <li>Stir in flour.</li>
-                    <li>Knead dough.</li>
-                    <li>Shape the dough.</li>
-                    <li>Brush shaped pretzels with beaten egg.</li>
-                    <li>Sprinkle with salt.</li>
-                    <li>Bake at 425° F for 15 min.</li>
-                </ol>
-            </section>
-            <section id="newsletters">
-                <form>
-                    <label for="email">Email for Newsletters</label>
-                    <input type="email" required name="email" id="email" />
-                    <button type="submit">Submit</button>
-                </form>
-            </section>
-        </main>
-        </body>
-    </html>
+<html lang="en">
+    <head>
+        <title>Pretzels</title>
+        <meta charset="UTF-8">
+        <meta name="description" content="Easy simple and fun way to make pretzels at home.">
+    </head>
+    <body>
+        <header>
+            <h1>Pretzels</h1>
+            <img src="https://cdn12.picryl.com/photo/2016/12/31/breze-pretzels-salt-food-drink-bbe01e-1024.jpg" alt="Pretzels">
+            <ul>
+                <li><a href="#ingredients">Ingredients</a></li>
+                <li><a href="#steps">Steps</a></li>
+                <li><a href="#newsletters">Newsletters</a></li>
+            </ul>
+        </header>
+    <main>
+        <section id="ingredients">
+            <h2>Ingredients</h2>
+            <dl>
+                <dt>Yeast</dt>
+                <dd>1 tbs</dd>
+                <dt>Flour</dt>
+                <dd>4 Cups</dd>
+                <dt>Warm Water</dt>
+                <dd>1 1/2 Cups</dd>
+                <dt>Egg</dt>
+                <dd>1</dd>
+                <dt>Sugar</dt>
+                <dd>1 tbs</dd>
+                <dt>Salt</dt>
+                <dd>1 tbs</dd>
+            </dl>
+        </section>
+        <section id="steps">
+            <h2>Steps</h2>
+            <ol>
+                <li>Mix yeast, water, sugar, and salt.</li>
+                <li>Stir in flour.</li>
+                <li>Knead dough.</li>
+                <li>Shape the dough.</li>
+                <li>Brush shaped pretzels with beaten egg.</li>
+                <li>Sprinkle with salt.</li>
+                <li>Bake at 425° F for 15 min.</li>
+            </ol>
+        </section>
+        <section id="newsletters">
+            <form>
+                <label for="email">Email for Newsletters</label>
+                <input type="email" required name="email" id="email" />
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+    </main>
+    </body>
+</html>
